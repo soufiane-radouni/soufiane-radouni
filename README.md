@@ -10,5 +10,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: soufiane97m@protonmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ 
-
+- 🥅 Goals: Find more 0-days and get more CVE's
