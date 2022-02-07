@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on HACKTHEBOX CTFs
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on Reverse engineering
+- 👯 I’m looking to collaborate on scripting
 - 🤔 I’m looking for help with Reverse engineering
 - 💬 Ask me about anything
 - 📫 How to reach me: soufiane97m@protonmail.com
 - 😄 Pronouns: HE/HIM
-- 🥅 Goals: Find more 0-days and get more CVE's
+- 🥅 Goals: get more CVE's | contribute more to open source
