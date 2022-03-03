@@ -4,10 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-radouni&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on HACKTHEBOX CTFs
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on scripting
-- 🤔 I’m looking for help with Reverse engineering
+- 👯 I’m looking to collaborate on bug bounty
 - 💬 Ask me about anything
 - 📫 How to reach me: soufiane97m@protonmail.com
 - 😄 Pronouns: HE/HIM
-- 🥅 Goals: get more CVE's | contribute more to open source
+- 🥅 Goals: rock bug bounty programs | contribute more to open source
