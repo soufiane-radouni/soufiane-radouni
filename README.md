@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on gold farming / botting 
+- 🔭 I’m currently working on Automation / Botting / Hackerone / Tryhackme / Hackthebox CTF's
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Hackers
 - 🥅 2023 Goals: Hack more / Learn more
